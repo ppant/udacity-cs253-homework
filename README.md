@@ -1,5 +1,5 @@
 ============================================================================================================
-									udacity-cs253-homework -- Web Application Engineering Course
+			udacity-cs253-homework -- Web Application Engineering Course
 ============================================================================================================
 
 Home work assignment for Udacity CS-253. My Homework assigments for Udacity CS 253 Web Application course 
